@@ -12,6 +12,7 @@ Besides, as our proposed network are trained and evaluated partly based on the c
 Also, since DIOR-RSVG is proposed with a Transformer-based model, which means there is no officially available anchors for two-stage methods to use. As a result, we share the anchors selected and used by our RINet below.
 
 For RSVG, they are: ['19,44, 19,20, 35,34, 37,72, 57,48, 73,123, 76,75, 137,103, 202,222'].
+
 For DIOR-RSVG, they are: ['18,20, 34,56, 43,27, 76,68, 119,124, 109,253, 200,167, 255,300, 472,453'].
 
 For more information and communication, please contact me at 202212490401@nusit.edu.cn or raise an issue here, I will reply to you when I received the message.
