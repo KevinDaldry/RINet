@@ -1,7 +1,7 @@
 Open Source for the codes of RINet in [*A Regionally Indicated Visual Grounding Network for Remote Sensing Images*](https://ieeexplore.ieee.org/document/10741531).
 
 <div align="center">
-  <img src="https://github.com/KevinDaldry/AANet/blob/main/WorkFlow.png">
+  <img src="https://github.com/KevinDaldry/RINet/blob/main/WorkFlow.png">
 </div>
 
 Considering the possible inconvenience brought to the creaters of RSVG and DIOR-RSVG datasets, please contact the authors of [*Visual Grounding in Remote Sensing Images*] and [*RSVG: Exploring Data and Models for Visual
