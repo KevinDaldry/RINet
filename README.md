@@ -9,7 +9,7 @@ Grounding on Remote Sensing Data* for the permission to use their datasets and c
 
 Besides, as our proposed network are trained and evaluated partly based on the codes provided by the authors of *Visual Grounding in Remote Sensing Images*, we want to announce our gratitude to them. In the meantime, it means that our proposed RINet can be easily plugged into their training and validating process, which means you can simply import our RINet into their project, but please remember to adjust the hyper-parameters.  
 
-Also, since DIOR-RSVG is proposed with a Transformer-based model, which means there is no officially available anchors for two-stage methods to use. As a result, we share the anchors selected and used by our RINet below.
+Also, since DIOR-RSVG is proposed with a Transformer-based anchor-free model, which means there is no officially available anchors for anchor-based methods to use. As a result, we share the anchors selected and used by our RINet below.
 
 For RSVG, they are: ['19,44, 19,20, 35,34, 37,72, 57,48, 73,123, 76,75, 137,103, 202,222'].
 
