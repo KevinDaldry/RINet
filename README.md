@@ -27,6 +27,5 @@ If you find this work interesting, you can refer its citation here:
     volume={62},
     number={},
     pages={1-11},
-    keywords={Feature extraction;Visualization;Remote sensing;Proposals;Transformers;Grounding;Sensors;Logic gates;Fuses;Detectors;Complex language expressions;remote sensing images;small-scale objects;visual grounding (VG)},
     doi={10.1109/TGRS.2024.3490847}}
 
