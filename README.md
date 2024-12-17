@@ -24,8 +24,9 @@ If you find this work interesting, you can refer its citation here:
     journal={IEEE Transactions on Geoscience and Remote Sensing}, 
     title={A Regionally Indicated Visual Grounding Network for Remote Sensing Images}, 
     year={2024},
-    volume={},
+    volume={62},
     number={},
-    pages={1-1},
-    keywords={Feature extraction;Visualization;Remote sensing;Proposals;Transformers;Grounding;Sensors;Logic gates;Fuses;Detectors;Visual Grounding;Remote Sensing Images;Complex Language Expressions;Small-Scale Objects},
+    pages={1-11},
+    keywords={Feature extraction;Visualization;Remote sensing;Proposals;Transformers;Grounding;Sensors;Logic gates;Fuses;Detectors;Complex language expressions;remote sensing images;small-scale objects;visual grounding (VG)},
     doi={10.1109/TGRS.2024.3490847}}
+
