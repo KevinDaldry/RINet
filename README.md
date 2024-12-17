@@ -4,10 +4,10 @@ Open Source for the codes of RINet in [*A Regionally Indicated Visual Grounding 
   <img src="https://github.com/KevinDaldry/RINet/blob/main/WorkFlow.png">
 </div>
 
-Considering the possible inconvenience brought to the creaters of RSVG and DIOR-RSVG datasets, please contact the authors of *Visual Grounding in Remote Sensing Images* and *RSVG: Exploring Data and Models for Visual
+Considering the possible inconvenience brought to the creators of RSVG and DIOR-RSVG datasets, please contact the authors of *Visual Grounding in Remote Sensing Images* and *RSVG: Exploring Data and Models for Visual
 Grounding on Remote Sensing Data* for the permission to use their datasets and codes accordingly. 
 
-Besides, as our proposed network are trained and evaluated partly based on the codes provided by the authors of *Visual Grounding in Remote Sensing Images*, we want to announce our gratitude to them. In the meantime, it means that our proposed RINet can be easily plugged into their training and validating process, which means you can simply import our RINet into their project, but please remember to adjust the hyper-parameters.  
+Besides, as our proposed network are trained and evaluated partly based on the codes provided by the authors of *Visual Grounding in Remote Sensing Images*, we want to announce our gratitude to them. In the meantime, it means that our proposed RINet can be easily plugged into their training and validating process, so that you can simply import our RINet into their project, but please remember to adjust the hyper-parameters.  
 
 Also, since DIOR-RSVG is proposed with a Transformer-based anchor-free model, which means there is no officially available anchors for anchor-based methods to use. As a result, we share the anchors selected and used by our RINet below.
 
